@@ -1,0 +1,3 @@
+cron=3.0pl1-162
+default-jdk-headless=2:1.17-74
+ffmpeg=7:5.1.9-0+deb12u1

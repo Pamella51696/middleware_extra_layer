@@ -1,0 +1,17 @@
+{
+  "input_width": 1280,
+  "input_height": 720,
+  "hfov_deg": 190,
+  "vfov_deg": 150,
+  "fisheye_model": "equidistant",
+  "fisheye_radius_px": 360,
+  "output_width": 1280,
+  "output_height": 720,
+  "cylindrical_focal_px": 500,
+  "cameras": {
+    "front": { "yaw_deg": 0.0, "pitch_deg": -8.0, "roll_deg": 0.0 },
+    "right": { "yaw_deg": 0.0, "pitch_deg": -8.0, "roll_deg": 0.0 },
+    "rear":  { "yaw_deg": 0.0, "pitch_deg": -8.0, "roll_deg": 0.0 },
+    "left":  { "yaw_deg": 0.0, "pitch_deg": -8.0, "roll_deg": 0.0 }
+  }
+}
